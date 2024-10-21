@@ -9,6 +9,7 @@ Intel i5 4310u (Haswell)
 12GB DDR3 @ 1600mhz
 Intel HD 4400 integrated graphics
 256gb SSD
+Intel wireless 7260
 
 Tested on MacOS Catalina
 
