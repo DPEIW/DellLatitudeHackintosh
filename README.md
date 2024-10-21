@@ -5,12 +5,13 @@ Recommended EFI files for [Dell Latitude E5440](https://www.dell.com/support/man
 
 
 ## My specs
-```
 Intel i5 4310u (Haswell)
 12GB DDR3 @ 1600mhz
 Intel HD 4400 integrated graphics
 256gb SSD
-```
 
-I have setup the EFI files for MacOS Catalina
+Tested on MacOS Catalina
 
+## Installation Instructions
+1. Clone the repository
+2. Copy EFI folder to root of EFI usb drive
